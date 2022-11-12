@@ -1,0 +1,33 @@
+.insighttab__chip {
+  width: 10rem;
+  padding: 1rem;
+  background-color: var(--accent-color);
+  color: var(--font-color);
+  gap: 5px;
+}
+
+.chip__title {
+  font-size: 1.4rem;
+}
+
+.chip__data {
+  font-size: 2rem;
+}
+
+.chip__ratio {
+  font-size: 1.2rem;
+  align-items: center;
+  font-weight: 600;
+}
+
+.positive {
+  color: #74c474;
+}
+
+.negative {
+  color: #db5f5f;
+}
+
+.chip__ratio > span {
+  font-size: 1.5rem;
+}

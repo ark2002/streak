@@ -1,0 +1,24 @@
+.InsightTab {
+  width: 32%;
+  min-width: 40rem;
+  gap: 2rem;
+}
+
+.insighttab__headings {
+  padding-left: 1rem;
+  gap: 5px;
+}
+
+.insighttab__title {
+  font-size: 2.5rem;
+  font-weight: 600;
+}
+
+.insighttab__subtitle {
+  font-size: 1.4rem;
+  color: #b3b3b3;
+}
+
+.insighttab__chip-container {
+  gap: 1rem;
+}

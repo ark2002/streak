@@ -1,0 +1,17 @@
+.navbar {
+  align-items: center;
+  gap: 2rem;
+  padding: 1rem 0;
+  padding-left: 3rem;
+}
+
+.navbar__logo {
+  width: 20rem;
+  cursor: pointer;
+}
+
+.navbar__right {
+  gap: 2rem;
+  margin-left: auto;
+  align-items: center;
+}

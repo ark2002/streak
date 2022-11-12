@@ -1,0 +1,17 @@
+.pie-chart__section {
+  width: 50%;
+}
+
+.pie-chart__container {
+  flex-wrap: wrap;
+}
+
+.pie-chart {
+  align-items: center;
+  width: fit-content;
+  gap: 1rem;
+}
+
+.piechart__text {
+  font-size: 1.8rem;
+}

@@ -1,0 +1,27 @@
+.navbar__data-select {
+  width: 26rem;
+  align-items: center;
+  gap: 1rem;
+  padding: 1rem;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+  cursor: pointer;
+}
+
+.data-select__img {
+  width: 3rem;
+}
+
+.data-select__selected {
+  font-size: 1.4rem;
+  color: var(--font-color);
+  padding-bottom: 5px;
+}
+
+.data-select__help {
+  font-size: 1.6rem;
+}
+
+.navbar-data-select span {
+  margin-left: auto;
+  align-self: flex-end;
+}

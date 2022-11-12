@@ -1,0 +1,51 @@
+.table__container {
+  width: 50%;
+}
+
+table {
+  border-collapse: collapse;
+  width: 60rem;
+  margin: 1rem 2px;
+}
+
+.table__head {
+  background-color: #666666;
+  border: none;
+}
+
+th {
+  border: none;
+  padding: 8px 0;
+  font-size: 1.2rem;
+  text-align: left;
+}
+
+td {
+  border: none;
+  padding: 7px 0;
+  font-size: 1.2rem;
+}
+
+tr {
+  border-bottom: 1px solid #666666;
+  background-color: #6666663f;
+}
+
+.num__column,
+.ctr__column,
+.cpc__column,
+.cost__column {
+  width: 15%;
+}
+
+.campaign__column {
+  width: 40%;
+  text-align: left;
+}
+
+.ctr__column,
+.cpc__column,
+.cost__column {
+  text-align: left;
+  padding-left: 7px;
+}
