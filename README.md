@@ -4,6 +4,10 @@
 
 https://codesandbox.io/s/streak-edxln8
 
+## Live
+
+https://csb-edxln8.netlify.app
+
 ### Run Locally
 
 1. Clone the project
