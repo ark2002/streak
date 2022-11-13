@@ -4,7 +4,8 @@
 
 table {
   border-collapse: collapse;
-  width: 60rem;
+  width: 100%;
+  min-width: 40rem;
   margin: 1rem 2px;
 }
 
