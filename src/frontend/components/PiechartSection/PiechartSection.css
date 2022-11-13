@@ -1,5 +1,6 @@
 .pie-chart__section {
   width: 50%;
+  min-width: 40rem;
 }
 
 .pie-chart__container {
