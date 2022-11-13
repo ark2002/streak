@@ -43,5 +43,4 @@ https://csb-edxln8.netlify.app
 
 <img width="396" alt="Screenshot 2022-11-13 at 11 31 29 AM" src="https://user-images.githubusercontent.com/67817330/201508237-02a5f69d-7847-476c-9f97-8354ac8e75e0.png">
 
-<img width="396" alt="Screenshot 2022-11-13 at 11 31 29 AM" src="https://user-images.githubusercontent.com/67817330/201508280-aa816ca2-201d-41b8-940a-4dfe0b6773b7.png">
 
