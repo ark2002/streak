@@ -13,13 +13,13 @@ https://csb-edxln8.netlify.app
 1. Clone the project
 
    ```bash
-   git clone https://github.com/ark2002/ark2002-oct-10.git
+   git clone https://github.com/ark2002/streak.git
    ```
 
 2. Go to the project directory
 
    ```bash
-   cd ark2002-oct-10
+   cd streak
    ```
 
 3. Install dependencies
